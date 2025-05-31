@@ -6,7 +6,7 @@ This repo contains Fritzing parts and other resources for use in Harp documentat
 - `Sketches` - Contains fritzing sketches.
 - `Images` - Contains illustrations or images for parts which have no corresponding fritzing component. Usually taken from vendor website. To be used for either creating new fritzing parts in the future or making composite output images.
 - `Composites` - contains overlaid fritzing/illustrations output. 
-    - So this is a bit crazy, I have tried to make the image compositions in `Gimp` but for some reason they always come out either soft or jaggy with uneven lines. I suspect this has to be with the interpolation during scaling, but even disabling it does not improve. For that reason, for now, I am overlaying them in `Powerpoint` (horrible, I know) but there is some magic there that preserves the image quality. Any other image editor suggestions that work better are much appreciated.
+    - So this is a bit crazy, I have tried to make the image compositions in `Gimp` but for some reason they always come out either soft or jaggy with uneven lines. I suspect this has to be with the interpolation during scaling, but even disabling it or playing around with the options does not improve the quality. For that reason, for now, I am overlaying them in `Powerpoint` (horrible, I know) but there is some magic there that preserves the image quality. Any other image editor suggestions that work better are much appreciated.
 
 ### Subfolders
 
